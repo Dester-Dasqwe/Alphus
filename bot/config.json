@@ -1,0 +1,23 @@
+{
+	"token": "MjM4NzE3ODY2NTIwNzM5ODQw.Cw9vTg.3CsWGCVknEo96Qb6HTqGy5ET7YU",
+	"app_id": "238717866520739840",
+	"command_prefix": "@",
+	"mod_command_prefix": "#",
+	"non_essential_event_listeners": true,
+	"log_presence": false,
+	"debug": false,
+	"show_warn": false,
+	"admin_id": "227538798387527680",
+	"send_mentions": true,
+	"allow_user_games": false,
+	"mal_user": "",
+	"mal_pass": "",
+	"use_env": true,
+	"weather_api_key": "",
+	"osu_api_key": "",
+	"imgur_client_id": "",
+	"yourls_sig_token": "",
+	"banned_server_ids": [""],
+	"whitelist": [""],
+	"carbon_key": ""
+}
